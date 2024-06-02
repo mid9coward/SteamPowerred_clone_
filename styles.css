@@ -229,16 +229,17 @@ button[type="submit"] {
   border-radius: 10px;
 }
 .game-visual-image-discription {
+  width: 100%;
   display: flex;
   /* flex-direction: row; */
 }
 .game-visual-image {
-  width: 100%;
+  width: 60%;
   height: auto;
 }
 .image-img {
   margin: 20px;
-  width: 60%;
+  width: 100%;
   height: auto;
   border-radius: 10px;
   border: 2px solid blue;
