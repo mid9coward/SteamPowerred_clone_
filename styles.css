@@ -230,7 +230,7 @@ button[type="submit"] {
 }
 .game-visual-image-discription {
   width: 100%;
-  display: flex;
+  height: auto;
   /* flex-direction: row; */
 }
 .game-visual-image {
