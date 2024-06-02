@@ -190,7 +190,7 @@ button[type="submit"] {
 }
 .detail-game-display {
   max-width: 800px;
-  width: 80%;
+  width: 100%;
   height: auto;
   display: flex;
   flex-direction: column;
@@ -233,12 +233,12 @@ button[type="submit"] {
   /* flex-direction: row; */
 }
 .game-visual-image {
-  width: auto;
+  width: 100%;
   height: auto;
 }
 .image-img {
   margin: 20px;
-  width: auto;
+  width: 60%;
   height: auto;
   border-radius: 10px;
   border: 2px solid blue;
@@ -265,7 +265,7 @@ button[type="submit"] {
   margin: 5px;
 }
 .taggame-name-container {
-  width: 80%;
+  width: 100%;
   height: auto;
   border: 2px solid black;
   -webkit-box-shadow: 5px 16px 27px 2px rgba(0, 0, 0, 0.67);
