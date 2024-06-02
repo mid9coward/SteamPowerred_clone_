@@ -196,8 +196,8 @@ const renderDetailGame = async () => {
           <p class="game-discription">${gameRender.description}</p>
           <p class="game-information">Game developer: ${gameRender.developer[0]}</p>
          
-          <p class="game-information">requied Age : ${gameRender.required_age}</p>
-          <p class="game-information">operating system :${gameRender.platforms}</p>     
+          <p class="game-information">Required age : ${gameRender.required_age}</p>
+          <p class="game-information">Operating system :${gameRender.platforms}</p>     
       </div>
   </div>
 </div>

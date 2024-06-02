@@ -266,7 +266,7 @@ button[type="submit"] {
   margin: 5px;
 }
 .taggame-name-container {
-  width: 100%;
+  width: 80%;
   height: auto;
   border: 2px solid black;
   -webkit-box-shadow: 5px 16px 27px 2px rgba(0, 0, 0, 0.67);
